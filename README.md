@@ -6,17 +6,17 @@
 
 ---
 
-### 🧠 What I’m Currently Working On
-- Enhancing my skills in modern software development practices  
-- Exploring backend and frontend technologies  
-- Developing personal and academic projects  
+🔭 **What I'm Currently Working On**
 
+- 🎮 Developing a [2D Platformer] game using **Godot Engine** & **GDScript**.
+- 🌱 Enhancing my skills in Game Design patterns.
+- 👯 Looking to collaborate on open-source Godot projects.
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** C, C#, Python, JavaScript  
+- **Languages:** C, C# frontend, Python, GDScript
 - **Web Development:** HTML, CSS
-- **Tools & Platforms:** Git, GitHub, Coursera
+- **Tools & Platforms:** Git, GitHub
 
 ---
 
